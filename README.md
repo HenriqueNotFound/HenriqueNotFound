@@ -5,11 +5,11 @@
   
         - 👋 String nome = "Oi, meu nome é Henrique";
         
-        - 👨‍💻 String Dev = "A caminho de me tornar um dev Full Stack";
+        - 👨‍💻 String dev = "A caminho de me tornar um dev Full Stack";
 
         - 💻 String tecnologias = "HTML, CSS, JavaScript, Java, PHP, Python";
 
-        - ❤️ String hobbies = "Amo jogos e tecnologia no geral, e um apaixonado pelo cosmos";
+        - ❤️ String hobbies = "Amo jogos e tecnologia no geral, e sou um apaixonado pelo cosmos";
         
         - 📫 String contato = "hhhenriqque15@gmail.com";
         
