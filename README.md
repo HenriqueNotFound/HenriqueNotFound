@@ -7,7 +7,7 @@
         
         - 👨‍💻 String dev = "A caminho de me tornar um dev Full Stack";
 
-        - 💻 String tecnologias = "HTML, CSS, JavaScript, Java, PHP, Python";
+        - 💻 String tecnologias = "HTML, CSS, JavaScript, Java, Python";
 
         - ❤️ String hobbies = "Amo jogos e tecnologia no geral, e sou um apaixonado pelo cosmos";
         
