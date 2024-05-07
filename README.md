@@ -13,7 +13,7 @@
         
         - 📫 String contato = "hhhenriqque15@gmail.com";
         
-        - 👦 Integer idade = 18;
+        - 👦 int idade = 20;
 
       }
     }
